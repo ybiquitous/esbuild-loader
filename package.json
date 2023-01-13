@@ -1,6 +1,6 @@
 {
 	"name": "esbuild-loader",
-	"version": "0.0.0-semantic-release",
+	"version": "3.0.0",
 	"description": "⚡️ Speed up your Webpack build with esbuild",
 	"keywords": [
 		"esbuild",
